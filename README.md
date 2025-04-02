@@ -29,7 +29,7 @@ The dataset (`Loan_Data.csv`) contains the following columns:
 2. **Steps**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/ShreyaMotay/Loan-Data-Analysis.git
+     git clone https://github.com/ShreyaMotay/Loan_Data_Analysis.git
      ```
    - Install dependencies:
      ```bash
